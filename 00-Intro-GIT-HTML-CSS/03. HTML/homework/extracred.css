@@ -1,0 +1,43 @@
+h1{
+    color: lightcoral;
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}   
+
+h4{
+    text-align: center;
+
+}
+
+img{
+    width: 400px;
+}
+
+#thirdDiv{
+    height: 600px;
+    width: 500px;
+    background-color:lightcoral;
+    padding: 50px;
+    border: dotted;
+    position: relative;
+    top: 0px;
+    left: 400px;
+}
+
+#spanId{
+    font-size: 18px;
+    margin: 50px; 
+
+
+}
+
+
+body {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfIGhGg1W_eXK7qcmQdJWl-4xit32Sf0MN4A&usqp=CAU);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
